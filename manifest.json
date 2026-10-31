@@ -1,0 +1,35 @@
+{
+  "manifest_version": 3,
+  "name": "Petal Arbour Theme",
+  "version": "1.0.0",
+  "description": "A soft pastel Chrome theme: orchid-pink chrome, a cream New Tab Page, and mint and lilac accents.",
+  "icons": {
+    "128": "logo/logo.png"
+  },
+  "theme": {
+    "colors": {
+      "frame":                        [244, 194, 234],
+      "frame_inactive":               [247, 214, 240],
+      "toolbar":                      [253, 219, 245],
+      "tab_text":                     [62, 42, 68],
+      "bookmark_text":                [62, 42, 68],
+      "ntp_background":               [254, 253, 220],
+      "ntp_text":                     [62, 42, 68],
+      "ntp_link":                     [156, 90, 168],
+      "ntp_header":                   [216, 249, 210],
+      "button_background":            [216, 249, 210],
+      "button_background_secondary":  [218, 198, 241],
+      "omnibox_background":           [255, 255, 255],
+      "omnibox_text":                 [62, 42, 68],
+      "toolbar_button_icon":          [62, 42, 68]
+    },
+    "properties": {
+      "ntp_button_background":    [218, 198, 241],
+      "ntp_button_hover":         [200, 178, 232],
+      "ntp_logo_alternate":       1,
+      "ntp_single_row_shortcuts": true
+    },
+    "color_scheme": "light",
+    "default_color_scheme": "light"
+  }
+}
